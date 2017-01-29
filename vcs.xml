@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/szakolczaimartin/Pizza_Online_Shop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="szakolczaimartin" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Szakolczai Martin\Desktop" />
+    <option name="cloneParentDir" value="C:\Users\Szakolczai Martin\Desktop\Pizza _Online_ Shop" />
   </component>
 </application>
